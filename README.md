@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 ![Leebbong's GitHub stats](https://github-readme-stats.vercel.app/api?username=sblee1031&show_icons=true&theme=highcontrast)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sblee1031)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sblee1031)](https://github.com/sblee1031)
 
