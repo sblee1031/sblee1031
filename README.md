@@ -1,8 +1,7 @@
 ### 안녕하세요!^^   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsblee1031&count_bg=%2379C83D&title_bg=%23555555&icon=hellofresh.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://playcode.tistory.co.kr)
 
 ### 놀코 입니다~~ 👋
-#### 놀코 티스토리
-http://playcode.tistory.co.kr
+#### 놀코 티스토리 ⚡  http://playcode.tistory.co.kr
 <!--
 **sblee1031/sblee1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
