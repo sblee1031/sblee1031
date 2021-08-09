@@ -1,5 +1,5 @@
 ### 안녕하세요!^^ 놀코 입니다~~ 👋
-# 티스토리
+## 놀코 티스토리
 http://playcode.tistory.co.kr
 <!--
 **sblee1031/sblee1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
