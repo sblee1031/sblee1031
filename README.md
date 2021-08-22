@@ -3,7 +3,7 @@
 ### 놀코 입니다~~ 👋
 #### 놀코 티스토리 ⚡  https://playcode.tistory.com
 
-## Java, Spring FramWork, JavaScript, React, Oracle, Mybatis, Ajax, JQuery
+## Java, Spring FrameWork, JavaScript, React, Oracle, Mybatis, Ajax, JQuery
 <!--
 **sblee1031/sblee1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
