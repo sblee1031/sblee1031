@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 #### 놀코 티스토리 ⚡  https://playcode.tistory.com
 
-## :v:프로젝트
+## :v:프로젝트:v:
 1. [렌터카 키오스크](https://github.com/sblee1031/Kosta/tree/main/car_Kiosk_210531)
 2. [토론 커뮤니티 Talk About](https://github.com/sblee1031/talkabout)
 3. [사람인 구직정보 챗봇](https://github.com/sblee1031/Toy_Project/tree/main/SaramIn_Python)
